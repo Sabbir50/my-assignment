@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    background-image: url(/source/images/banner2.png);
+    background-repeat: no-repeat;
+    width: 1600px;
+    height: 890px;
+   
+}
