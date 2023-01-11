@@ -1,6 +1,7 @@
 *{
     padding: 0;
     margin: 0;
+    font-family: 'Work Sans', sans-serif;
 }
 
 header{
@@ -8,6 +9,7 @@ header{
     background-repeat: no-repeat;
     width: 1600px;
     height: 890px;
+    position: fixed;
    
 }
 header ul li{
@@ -23,4 +25,11 @@ ul li a{
     text-decoration: none;
     color: black;
     font-size: 20px;
+    font-weight: 400;
+}
+ul li a:hover{
+    color: #F15B22;
+}
+ul li a:active{
+    color: #b83704;
 }
